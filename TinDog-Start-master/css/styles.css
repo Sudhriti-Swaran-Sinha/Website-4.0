@@ -1,0 +1,263 @@
+body{
+    /* font-family: 'Montserrat', sans-serif; */
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:3.5rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+p{
+    color: grey;
+}
+h2{
+    font-family:'Montserrat', sans-serif; 
+    font-size: 3rem;
+}
+
+
+/* title-section */
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.left{
+    col-lg-6 col-md-12
+}
+.right{
+    col-lg-6 col-md-12
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+/* Navigation bar */
+.navbar{
+    padding-top: 0;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: Montserrat-Light;
+    cursor: pointer;
+}
+/* btn */
+.download-btn{
+    margin: 5% 3% 5% 0;
+
+}
+.title-img{
+    width: 70%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 70px;
+    top: 223px;
+}
+@media (max-width:992px) {
+    .title-img{
+        transform: rotate(0);
+        position: static;
+
+    }
+    #title{
+        text-align: center;
+    }
+    
+}
+/* features */
+
+#features{
+  align-items: center;
+  padding: 7% 25%;
+  margin: 10px;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  margin: 0;
+}
+.f-box{
+    padding: 5% ;
+}
+.f1{
+    height: 60px;
+    width: 60px;
+    margin-bottom: 1rem;
+    color: #ef8172;   
+}
+.f1:hover{
+    color: #ff4c68;
+}
+
+/* testimonials */
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    
+    color: white;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* press */
+
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 2%;
+}
+.press-img{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/* prising */
+
+#pricing{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.row{
+padding: 4% 15%;
+
+
+}
+
+/* call for action */
+
+#cta{
+    
+    background-color: #ff4c68;
+}
+h3{ font-family:'Montserrat', sans-serif; 
+    font-size: 2rem;
+
+}
+.cta-btn{
+    margin: 5% 3% 5% 0;
+}
+
+/* footer */
+
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+
+}
+#fh3{
+    color: white;
+    font-size: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
